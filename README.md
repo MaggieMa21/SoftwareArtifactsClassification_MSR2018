@@ -7,4 +7,5 @@ You can find the following materials necessary to replicate our study:
 (iii) list of features used for Machine Learning algorithms.
 
 Reference:
-Yuzhan Ma, Sarah Fakhoury, Michael Christensen, Venera Arnaoudova, Waleed Zogaan, and Mehdi Mirakhorli. 2018. Automatic Classi cation of Software Artifacts in Open-Source Applications. In MSR ’18: 15th Interna- tional Conference on Mining Software Repositories, May 28–29, 2018, Gothen- burg, Sweden. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3196398.3196446
+
+Yuzhan Ma, Sarah Fakhoury, Michael Christensen, Venera Arnaoudova, Waleed Zogaan, and Mehdi Mirakhorli. 2018. Automatic Classi cation of Software Artifacts in Open-Source Applications. In MSR ’18: 15th International Conference on Mining Software Repositories, May 28–29, 2018, Gothenburg, Sweden. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3196398.3196446
