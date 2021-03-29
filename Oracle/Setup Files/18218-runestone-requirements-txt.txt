@@ -1,7 +1,7 @@
 Jinja2==2.7.2
 MarkupSafe==0.21
 Paver==1.2.2
-Pygments==1.6
+Pygments==2.7.4
 Sphinx==1.2.2
 astroid==1.1.1
 cogapp==2.3
